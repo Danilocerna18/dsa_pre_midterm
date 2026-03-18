@@ -1,1 +1,1 @@
-# dsa_pre_midterm
+para correrlo solo le das play a main.py y listo
